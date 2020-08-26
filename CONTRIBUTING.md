@@ -23,10 +23,9 @@ Keep an open mind! There are countless ways you can contribute to suitsaweb. Her
 * etc.
 
 # Ground Rules
-### Set expectations for behavior (yours, and theirs).
 This includes not just how to communicate with others (being respectful, considerate, etc) but also technical responsibilities (importance of testing, project dependencies, etc).
 
-Responsibilities
+**Responsibilities**
 * Ensure that you meet the deadlines (accountability)
 * Ensure that code that has been pushed has been thouroghly tested
 * Create issues for any major changes and enhancements that you wish to make. Discuss things transparently and get community feedback.
